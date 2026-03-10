@@ -1,0 +1,5 @@
+0 Mosaic Disease
+1 Healthy cassava
+2  Brown Streak Disease
+3 Green Mottle
+4 Bacterial Blight
